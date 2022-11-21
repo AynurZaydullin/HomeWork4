@@ -120,6 +120,6 @@ public class Main {
             System.out.println("Число " + three + " самое большее.");
         }
         System.out.println();
-
+        System.out.println("Домашнее задание сделано!.");
     }
 }
